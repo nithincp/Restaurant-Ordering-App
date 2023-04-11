@@ -107,7 +107,7 @@ function getPopupHTML(){
     const popupHTML = 
     `
     <div class="pop-up" id="pop-up">
-        <p>Enter card details</p>
+        <p style="font-size:30px">Enter card details</p>
         <form id="payment-form">
             <input type="text" name="fullName" placeholder="Enter your name" required/>
             <input type="text" name="cardNumber" placeholder="Enter card number" required/>
