@@ -80,7 +80,7 @@ function addItemDashboard(id){
         `
             <div class="total-item-dashboard">
                 <p class="total-title">Total:</p>
-                <p class="total-price">${getTotalPrice()}</p>
+                <p class="total-price">$${getTotalPrice()}</p>
             </div>
         `
 
